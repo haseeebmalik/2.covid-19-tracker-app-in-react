@@ -1,0 +1,6 @@
+/*every css is done in the main cards.js file*/
+@media(min-width: 780px){
+    .someClass {
+      margin: 2% 0!important;
+    }
+  }
